@@ -65,6 +65,10 @@ Our project aims to address various aspects of road safety using cutting-edge te
 - OpenAPI: Utilize OpenAPI specifications for defining RESTful APIs.
 - RAG Technology: Integrate RAG (Retrieval-Augmented Generation) technology for improved chatbot responses.
 
+## Video Link
+https://drive.google.com/file/d/1jAUByxixlYRxYpxYr_uwEGFKdzw8ckTd/view?usp=drive_link
+  
+
 ## Conclusion
 
 Our project aims to elevate road safety awareness and mitigate the occurrence of accidents through a holistic approach leveraging advanced technologies and data-driven insights.
