@@ -84,8 +84,7 @@ Our project aims to address various aspects of road safety using cutting-edge te
 
 
 ## Video LiNK (Accident Predection And Recomendation)
-https://drive.google.com/file/d/1tHiAhJHp4sDTuX9zY0n49pKvwadMYMZh/view?usp=drive_link
-
+https://drive.google.com/file/d/1zsGCv7rAOydmwuJuX3Y69cBZAb2cfMZ_/view?usp=drive_link
 
 
   
