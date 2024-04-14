@@ -27,17 +27,6 @@ Our project aims to address various aspects of road safety using cutting-edge te
 - Data Processing: Pandas, NumPy
 - Deployment: Docker, Kubernetes
 
-### Real-time Notifications
-
-- Backend: Node.js, Express.js
-- Messaging Queue: Apache Kafka or RabbitMQ
-- Integration: RESTful APIs, Websockets
-
-### Computer Vision for Driver Behavior Detection
-
-- Computer Vision Framework: OpenCV
-- Machine Learning Framework: TensorFlow Object Detection API
-- Deployment: Docker, Kubernetes
 
 ### LLM-powered Chatbot
 
